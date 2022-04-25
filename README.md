@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1> 
 
-I'm Anh, Software Engineer.   
+I'm Shiv, Software Engineer.   
 🌟 Currently building [FresaWallet](https://github.com/FresaClubWallet) - De-fi tools for the unbanked
 
 <a href="https://www.buymeacoffee.com/anhfactor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -70,84 +70,4 @@ I'm Anh, Software Engineer.
 | <a href="https://github.com/anhfactor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anhfactor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhfactor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 🧑‍🚀 &nbsp; Top project participant & contribute
 
-<!-- <details> -->
-<!--   <summary><b> Projects</b></summary> -->
-
-  <br />
-  <table>
-   <thead align="center">
-      <tr border: none;>
-         <td><b>💻 Projects</b></td>
-         <td><b>🌟 Source code & Presentation</b></td>
-         <td><b>:scroll: Description</b></td>
-      </tr>
-   </thead>
-   <tbody>
-     <tr>
-         <td><a href="https://github.com/anhfactor/danger-is-near"><b>Danger is Near</b></a></td>
-         <td><a href="http://danger-is-near.vercel.app"><b>Demo</b></a></td>
-         <td>Danger is near (play to earn game, gamefi on near chain testnet) - user play as a fireknight in a PIXELVERSE world who go to forest and kill monster. User can earn $DANGER token and score to compete with others user.</td>
-      </tr>
-     <tr>
-         <td><a href="https://github.com/anhfactor/celopunk-auction"><b>CeloPunk auction</b></a></td>
-         <td><a href="https://celopunk-auction.vercel.app"><b>Demo</b></a></td>
-         <td>CeloPunk is a NFT marketplace on celo testnet chain (Alfajores). It allows user mint, buying, make an offer, claim funds of NFTs in an automated environment.</td>
-      </tr>
-      <tr>
-         <td><a href="https://devpost.com/software/ossfun"><b>OssFun Near hackathon</b></a></td>
-         <td><a href="https://www.youtube.com/watch?v=Rvjg_cGVrBE&t=1s"><b>Demo</b></a></td>
-         <td>OssFun is a DeFi Open Source Software FUNding initiative leveraging on Aurora network to enable open software and hardware creator to keep innovating in a sustainable way.</td>
-      </tr>
-      <tr>
-         <td><a href="https://devpost.com/software/refi-financing-the-energy-transition?"><b>Refi Near hackathon</b></a></td>
-         <td><a href="https://www.youtube.com/watch?v=bCb_VXR10pM&t=50s"><b>Demo</b></a></td>
-         <td>ReFi - Financing the Energy Transition. A DeFi initiative that revolutionise investing in renewable energy projects. We are making investing flexible, faster and accessible to everyone.</td>
-      </tr>
-      <tr>
-         <td><a href="https://devpost.com/software/refi-hoyue4"><b>Refi Metis hackathon</b></a></td>
-         <td><a href="https://www.youtube.com/watch?v=PSO5L_arG80"><b>Demo</b></a></td>
-         <td>ReFi - Financing the Energy Transition. A DeFi initiative that revolutionise investing in renewable energy projects. We are making investing flexible, faster and accessible to everyone.</td>
-      </tr>
-      <tr>
-         <td><a href="https://devpost.com/software/smart-real-estate"><b>Smart Real Estate</b></a></td>
-         <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
-         <td>Provide a dapp for user to search real estate based on the location, city by using Chainlink oracle interact with prospect now. User can bookmark their favourite real estate for later reference.
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners"><b> Poke NFT</b></a></td>
-         <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
-         <td>a Pokémon trading card game built with ERC-721 Non-Fungible Tokens. The game leverages Ceramic’s decentralized identity (DID) services 3ID Connect and IDX, as well as Chainlink VRF, to generate provably random “special tokens” for players. By leveraging 3ID and IDX, the game allows users to control their identities and data in a manner independent from the game itself, while also offering a hosted authentication system that allows users to control their DID and interact with the game using their existing blockchain accounts. </td>
-      </tr>
-   </tbody>
-</table>
-  <br />
-<!-- </details> -->
-
-
-<!-- ### 📝 &nbsp; Moralis Academy certificate:
-
-<details>	
-  <summary><b>Ethereum 101</b></summary>
-
-  <br />
-  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQFn-OwYHWhGHw/profile-treasury-document-cover-images_480/0/1643912859033?e=1644987600&v=beta&t=ApJ0cRkT5Zo61hCtKQXIfqsfv5vXOJgYzt3HNTZP-QA"/>
-</details>
-
-<details>	
-  <summary><b>Ethereum smartcontract programming</b></summary>
-
-  <br />
-  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQHElLeFtTHOww/profile-treasury-document-cover-images_480/0/1644770362910?e=1644987600&v=beta&t=E2JQFCvHCSqnNg9CnfAzrpmfi7SUpjlQ0xqGNViYyFM"/>
-</details>
-
-<details>	
-  <summary><b>Defi 101 sessions A</b></summary>
-
-  <br />
-  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQEb0_6i7HKrZQ/profile-treasury-document-cover-images_480/0/1644770298009?e=1644987600&v=beta&t=9lhwGp9GJLH0ei329CA4ggvRk3mI0HQ1pxiE-Lrv6-E"/>
-</details>
-
- -->

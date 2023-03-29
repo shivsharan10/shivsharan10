@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1> 
 
-I'm Shiv, Software Engineer.   
+Hola, cómo estás. Soy Shiv.
 
 🌟 Currently Learning Rust 🦀 for building Solana and NEAR Programs(Smart Contracts).
 
